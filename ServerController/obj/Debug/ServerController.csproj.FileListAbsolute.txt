@@ -1,0 +1,10 @@
+D:\HXC\project\ServerController\ServerController\bin\Debug\ServerController.exe.config
+D:\HXC\project\ServerController\ServerController\bin\Debug\ServerController.exe
+D:\HXC\project\ServerController\ServerController\bin\Debug\ServerController.pdb
+D:\HXC\project\ServerController\ServerController\obj\Debug\ServerController.csproj.AssemblyReference.cache
+D:\HXC\project\ServerController\ServerController\obj\Debug\ServerController.Properties.Resources.resources
+D:\HXC\project\ServerController\ServerController\obj\Debug\ServerController.csproj.GenerateResource.cache
+D:\HXC\project\ServerController\ServerController\obj\Debug\ServerController.csproj.CoreCompileInputs.cache
+D:\HXC\project\ServerController\ServerController\obj\Debug\ServerController.exe
+D:\HXC\project\ServerController\ServerController\obj\Debug\ServerController.pdb
+D:\HXC\project\ServerController\ServerController\obj\Debug\ServerController.MainForm.resources
